@@ -1,6 +1,6 @@
-# cBit
+# CoolBit
 
-创乐博 基于micro:bit 控制器的cBit机器人库 （湖南智宇科教设备有限公司）
+趣码酷玩 基于micro:bit 的外设库   扩展板为酷比特
 
 ## License
 
